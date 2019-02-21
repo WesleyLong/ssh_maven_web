@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>somethin error</h1>
+<h1>something error</h1>
 </body>
 </html>
